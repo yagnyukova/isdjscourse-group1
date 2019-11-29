@@ -1,0 +1,20 @@
+{
+  "name": "isdjscourse-group1",
+  "version": "1.0.0",
+  "description": "Study course for Friday group",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kovm/isdjscourse-group1.git"
+  },
+  "author": "kovm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kovm/isdjscourse-group1/issues"
+  },
+  "homepage": "https://github.com/kovm/isdjscourse-group1#readme"
+}
